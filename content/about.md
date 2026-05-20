@@ -4,19 +4,15 @@ date: 2026-05-20
 draft: false
 ---
 
-## Welcome to TimK Labs
-
-TimK Labs is a personal site dedicated to the intersection of software development and cybersecurity. Here you'll find a mix of technical research, documentation, and writeups.
-
 ## What You'll Find Here
 
 **Security Research**
 
-Offensive security techniques, vulnerability research, and exploitation development. Posts here aim to document findings in a clear and reproducible way for educational purposes.
+Offensive security techniques, vulnerability research, and exploitation development. My posts here aim to document findings in a clear and reproducible way for educational purposes.
 
 **Coding**
 
-Development projects, tools, and scripts, mostly security-oriented but not exclusively. Expect walkthroughs, code breakdowns, and the occasional deep dive into low-level concepts.
+Development projects, tools, and scripts, mostly security-oriented but not exclusively. Expect walkthroughs and code breakdowns
 
 **Documentation**
 
